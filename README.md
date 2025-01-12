@@ -6,23 +6,20 @@ This project consists Backend written in **Go** using the **Gin** framework and 
 ## How to run the project
 1. **make sure Docker is installed**
 ```
-
     docker --version
-   ```
+```
 
 2. **Clone the Repository**
 ```
-
     git clone https://github.com/swoong99/myWeb.git myWeb
     cd myWeb
 ```
 3. **Run with Docker Compose**
 ```
-
     docker-compose up --build
 ```
 4. **Access the Web**
-- Open your browser and go to http://localhost to view the app.
+- Open your browser and go to 'http://localhost' to view the app.
 
 ## Backend
 - The backend provides an endpoint like `GET /api/instruction` that returns data in JSON format.
