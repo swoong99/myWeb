@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Mitigating Hallucination of Vision Language Models via Feature Perturbations",
+    "description": "Introduced random noise to features from the vision encoder of LVLM to induce hallucinations from textual input. Conducted experiments to determine whether adding noise could effectively remove information from image inputs by examining changes in cosine similarity between image and text features, as well as logit probability.",
+    "stack": ["Python", "Anaconda", "Transformers (HuggingFace)"],
+    "duration": "Jul. 2024 - Dec. 2024"
+  },
+  {
+    "id": 2,
+    "title": "Exploring the Impact of Context Size on the Performance of LLMs",
+    "description": "Proposed correlation between LLM’s performances and context sizes, inspired from overfitting of machine learning. Trained GPT-2 with different context sizes and evaluated them using perplexity. Analyzed previously black-box code and implemented necessary components to test hypotheses.",
+    "stack": ["Python", "Anaconda", "Transformers (HuggingFace)"],
+    "duration": "Feb. 2024 - Jun. 2024"
+  }
+]

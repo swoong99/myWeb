@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "title": "Image Processing Implementation",
+    "description": "Implemented filters and functions for image processing using OpenCV, such as Gaussian filter, frequency domain processing, and image alignment. Developed practical skills in image data processing through implementing various tools using multiple libraries.",
+    "stack": ["Python", "OpenCV"],
+    "duration": "Sep. 2024 - Dec. 2024"
+  },
+  {
+    "id": 2,
+    "title": "TCP/IP Implementation",
+    "description": "Successfully implemented a fully functional TCP/IP protocol suitable for real-world application, including layers of TCP/IP for internet communication.",
+    "stack": ["C++"],
+    "duration": "Feb. 2024 - Jun. 2024"
+  },
+  {
+    "id": 3,
+    "title": "ChaTRPG: A Gen-AI-Powered Immersive TRPG Assistant",
+    "description": "Developed a TRPG web service with an AI Game Master using GPT-3.5 Turbo, enabling user customization and integrating IoT systems for lighting control.",
+    "stack": ["OpenAI API", "Arduino IDE", "React"],
+    "duration": "Sep. 2023 - Dec. 2023"
+  },
+  {
+    "id": 4,
+    "title": "PintOS Project",
+    "description": "Implemented core OS components for the 80x86 architecture, including priority scheduling, system calls, and virtual memory management.",
+    "stack": ["C", "QEMU"],
+    "duration": "Sep. 2023 - Dec. 2023"
+  },
+  {
+    "id": 5,
+    "title": "RISC-V CPU Implementation",
+    "description": "Designed and implemented a RISC-V CPU in Vivado, evolving from a single-cycle CPU to a multi-cycle, pipelined CPU with control flow and cache.",
+    "stack": ["Vivado", "Ripes"],
+    "duration": "Feb. 2023 - Jun. 2023"
+  },
+  {
+    "id": 6,
+    "title": "Data Structure Implementation",
+    "description": "Implemented various data structures (stack, heap, binary search tree, AVL tree, hash table) and algorithms (Dijkstra’s algorithm, Floyd’s algorithm, Prim’s algorithm, Kruskal’s algorithm).",
+    "stack": ["C++"],
+    "duration": "Sep. 2022 - Dec. 2022"
+  }
+]
